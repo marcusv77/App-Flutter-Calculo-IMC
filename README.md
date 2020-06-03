@@ -1,4 +1,4 @@
-# flutterapp
+# Calculation BMI
 
 Application developed in flutter with the aid of the course "Creating Android and iOS Apps with Flutter".
 The project in question is a small application for calculating BMI.
