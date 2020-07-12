@@ -3,6 +3,10 @@
 Application developed in flutter with the aid of the course "Creating Android and iOS Apps with Flutter".
 The project in question is a small application for calculating BMI.
 
+<p align="center"> 
+<img alt="Print" src="https://github.com/marcusv77/App-Flutter-Calculo-IMC/blob/master/print/imc.png">
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
